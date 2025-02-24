@@ -13,7 +13,7 @@ so they had to migrate from their simple, one-computer setup to some kind of
 autoscaling cloud hosting solution to meet demands.
 
 The Rust Foundation for example, reports that they spent
-[$404,400 on infrastructure costs in 2023](https://foundation.rust-lang.org/static/publications/annual-reports/annual-report-2023.pdf).
+[$404,400 on infrastructure costs in 2023](https://rustfoundation.org/wp-content/uploads/2024/01/annual-report-2023.pdf).
 That's 88% of ZSF's [entire operating costs in 2024](https://ziglang.org/news/2024-financials/).
 It's hard to find the exact number from Python Software Foundation's financials because their infrastructure
 costs are sponsored, but suffice to say
